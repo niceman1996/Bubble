@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="459389e6-5244-4011-8b85-d5ad4f435d65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bubble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/app.8eeeaf31.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/chunk-vendors.57db8905.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/element-icons.535877f5.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/element-icons.732389de.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.007f9690.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-vendors.ddcb6f91.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lPT3hkToD1tkacy65Hluf2F7KQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../base" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build bubble" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bubble" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="bubble" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build bubble" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="214" width="400" height="677" key="#GOPATH" timestamp="1608079438161">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="755" y="214" width="400" height="677" key="#GOPATH/0.27.1920.1053@0.27.1920.1053" timestamp="1608079438160" />
+    <state x="972" y="441" width="218" height="303" key="EnvironmentVariablesDialog" timestamp="1608030395788">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="972" y="441" width="218" height="303" key="EnvironmentVariablesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1608030395788" />
+    <state x="1008" y="441" width="218" height="310" key="EnvironmentVariablesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1607497607625" />
+    <state x="738" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1608101257873">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="738" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1608101257873" />
+    <state width="1128" height="262" key="GridCell.Tab.0.bottom" timestamp="1607498961489">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1128" height="262" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1607498961489" />
+    <state width="1128" height="262" key="GridCell.Tab.0.center" timestamp="1607498961489">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1128" height="262" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1607498961489" />
+    <state width="1128" height="262" key="GridCell.Tab.0.left" timestamp="1607498961489">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1128" height="262" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1607498961489" />
+    <state width="1128" height="262" key="GridCell.Tab.0.right" timestamp="1607498961489">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1128" height="262" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1607498961489" />
+    <state x="553" y="224" width="1037" height="737" key="SettingsEditor" timestamp="1608103112132">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="553" y="224" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1608103112132" />
+    <state x="604" y="224" width="1037" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1607497612305" />
+    <state x="747" y="260" key="search.everywhere.popup" timestamp="1608086270150">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="747" y="260" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1608086270150" />
+  </component>
+</project>
